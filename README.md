@@ -20,3 +20,39 @@
 
 8) Networking on Linkedin for Job Opportunity Prompt: Create a message to connect with a professional at [Company] on LinkedIn, discussing my interest in the [Title] position and how my background in [Specific Field/Technology] makes me a strong candidate.
 
+## advanced ChatGPT prompts
+
+1. Apply your knowledge:
+Prompt: Given our discussions about [topic or concept], how might I apply this understanding in a practical scenario, especially when facing [specific scenario or problem]? I'm seeking actionable guidance or steps.
+
+2. Condense intricate text:
+Prompt: I've got a detailed document on [topic or subject]. Could you condense it for me, emphasizing the principal points and conclusions? Including [specific details or queries of interest] in the summary would be beneficial
+
+3. Differentiate and compare:
+Prompt: Would you be able to delineate the differences and parallels between [first item/idea] and [second item/idea]? I'm keen on their distinctions and commonalities, especially regarding [specific attributes or criteria]
+
+4. Engage with others:
+Prompt: I aim to forge connections with individuals who share an interest in [topic or hobby]. Could you propose strategies for interacting with this community, such as [specific types of content to produce, inquiries to pose, or forums to engage with]?
+
+5. Learn from mistakes:
+Prompt: I've encountered an issue with [describe the situation or mistake]. Could you assist in dissecting what missteps occurred and how they serve as a learning opportunity?
+I'm specifically interested in insights on [specific aspect or question]
+
+6. Retain essential information:
+Prompt: I need to commit crucial details about [topic or subject] to memory. Could you distill the essential points in a way that's easy to remember, maybe through mnemonic techniques or storytelling that incorporates [specific themes, or interests]?
+
+7. Simplify intricate details:
+Prompt: I'd like you to adopt my writing style.
+Here's a piece of my writing: [insert writing sample]. Could you attempt to replicate this style going forward, notably when discussing [specific topics or types of communication]?
+
+8. Stay updated:
+Prompt: I wish to remain informed about [topic or field of interest]. Could you sum up the most recent trends or news from the last [time frame], particularly those that concern [specific aspect of topic]?
+
+9. Train it to understand your writing style:
+Prompt: I'd like you to adopt my writing style.
+Here's a piece of my writing: [insert writing sample]. Could you attempt to replicate this style going forward, notably when discussing [specific topics or types of communication]?
+
+10. Email and Communication
+Efficiency:
+Prompt: Draft me a template for [specific type of email, e.g., project updates, client inquiries] that is professional yet concise, to reduce my email writing time.
+
